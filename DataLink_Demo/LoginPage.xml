@@ -1,0 +1,7 @@
+<suite name="Commerce Site Test">
+  <test name="Functionality Test"  thread-count="5" >
+    <classes>
+      <class name="com.datalink.test.TestClass"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
